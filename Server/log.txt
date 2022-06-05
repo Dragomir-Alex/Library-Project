@@ -1,0 +1,262 @@
+[Info][2022-01-14 19:22:12] Starting server
+[Info][2022-01-14 19:22:13] A client has connected
+[Info][2022-01-14 19:22:16] User:  has disconnected
+[Info][2022-01-14 19:26:19] Starting server
+[Info][2022-01-14 19:26:19] A client has connected
+[Info][2022-01-14 19:26:31] A client has created an account with username Cristian08
+[Info][2022-01-14 19:26:41] User: Cristian08 has successfully logged in
+[Info][2022-01-14 19:26:50] User: Cristian08 has disconnected
+[Info][2022-01-14 19:47:19] Starting server
+[Info][2022-01-14 19:47:19] A client has connected
+[Info][2022-01-14 19:47:27] User: Cristian08 has successfully logged in
+[Info][2022-01-14 19:47:30] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-14 19:47:51] Successfully displayed page 2 of books for user: Cristian08
+[Info][2022-01-14 19:48:00] Successfully displayed page 3 of books for user: Cristian08
+[Info][2022-01-14 19:48:23] User: Cristian08 has disconnected
+[Info][2022-01-14 20:17:53] Starting server
+[Info][2022-01-14 20:17:53] A client has connected
+[Info][2022-01-14 20:18:03] User: Cristian08 has successfully logged in
+[Info][2022-01-14 20:18:06] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-14 20:18:24] User: Cristian08 has disconnected
+[Info][2022-01-14 22:37:59] Starting server
+[Info][2022-01-14 22:37:59] A client has connected
+[Info][2022-01-14 22:39:25] Starting server
+[Info][2022-01-14 22:39:25] A client has connected
+[Info][2022-01-14 22:39:33] User: Cristian08 has successfully logged in
+[Info][2022-01-14 22:39:37] Successfully displayed the list of borrowed books for Cristian08
+[Info][2022-01-14 22:40:08] User: Cristian08 has successfully logged in
+[Info][2022-01-14 22:40:15] User: Cristian08 has disconnected
+[Info][2022-01-14 22:53:02] Starting server
+[Info][2022-01-14 22:53:02] A client has connected
+[Info][2022-01-14 22:53:13] User: Cristian08 has successfully logged in
+[Info][2022-01-14 22:54:56] Starting server
+[Info][2022-01-14 22:54:56] A client has connected
+[Info][2022-01-14 22:55:04] User: Cristian08 has successfully logged in
+[Info][2022-01-14 22:55:37] Starting server
+[Info][2022-01-14 22:55:37] A client has connected
+[Info][2022-01-14 22:55:49] User: Cristian08 has successfully logged in
+[Info][2022-01-14 23:01:59] Starting server
+[Info][2022-01-14 23:01:59] A client has connected
+[Info][2022-01-14 23:02:10] User: Cristian08 has successfully logged in
+[Info][2022-01-14 23:02:12] User: Cristian08 attempted to delete their account
+[Info][2022-01-14 23:02:17] User: Cristian08 attempted to delete their account
+[Info][2022-01-14 23:02:19] Successfully displayed the list of borrowed books for Cristian08
+[Info][2022-01-14 23:02:40] User: Cristian08 has disconnected
+[Info][2022-01-14 23:03:51] Starting server
+[Info][2022-01-14 23:03:51] A client has connected
+[Info][2022-01-14 23:04:01] User: Cristian08 has successfully logged in
+[Info][2022-01-14 23:04:06] User: Cristian08 has removed their library account
+[Info][2022-01-14 23:04:27] User:  has disconnected
+[Info][2022-01-14 23:05:30] Starting server
+[Info][2022-01-14 23:05:30] A client has connected
+[Info][2022-01-14 23:05:45] User: Cristian08 has successfully logged in
+[Info][2022-01-14 23:05:47] User: Cristian08 has removed their library account
+[Info][2022-01-14 23:06:26] A client attempted to login
+[Info][2022-01-14 23:06:37] User:  has disconnected
+[Info][2022-01-14 23:08:40] Starting server
+[Info][2022-01-14 23:08:40] A client has connected
+[Info][2022-01-14 23:08:50] User: Cristian08 has successfully logged in
+[Info][2022-01-14 23:08:53] User: Cristian08 has removed their library account
+[Info][2022-01-14 23:09:12] User:  has disconnected
+[Info][2022-01-14 23:09:28] Starting server
+[Info][2022-01-14 23:09:28] A client has connected
+[Info][2022-01-14 23:09:37] User: Cristian08 has successfully logged in
+[Info][2022-01-14 23:09:39] User: Cristian08 has removed their library account
+[Info][2022-01-14 23:10:06] User:  has disconnected
+[Info][2022-01-14 23:12:16] Starting server
+[Info][2022-01-14 23:12:16] A client has connected
+[Info][2022-01-14 23:12:26] User: Cristian08 has successfully logged in
+[Info][2022-01-14 23:12:29] User: Cristian08 has removed their library account
+[Info][2022-01-14 23:12:54] A client attempted to login
+[Info][2022-01-14 23:12:56] A client has created an account with username Cristian08
+[Info][2022-01-14 23:12:58] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-14 23:13:08] User: Cristian08 has successfully borrowed the book with ID:  or:
+[Info][2022-01-14 23:13:10] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-14 23:14:03] User: Cristian08 attempted to delete their account
+[Info][2022-01-14 23:14:10] User: Cristian08 attempted to delete their account
+[Info][2022-01-14 23:14:12] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-14 23:14:59] User: Cristian08 has disconnected
+[Info][2022-01-14 23:18:14] Starting server
+[Info][2022-01-14 23:18:14] A client has connected
+[Info][2022-01-14 23:18:23] User: Cristian08 has successfully logged in
+[Info][2022-01-14 23:18:31] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-14 23:18:35] User: Cristian08 has successfully borrowed the book with ID:  or:
+[Info][2022-01-14 23:18:36] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-14 23:19:35] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-14 23:19:47] User: Cristian08 attempted to delete their account
+[Info][2022-01-14 23:19:50] Successfully displayed the list of borrowed books for Cristian08
+[Info][2022-01-14 23:20:10] User: Cristian08 has disconnected
+[Info][2022-01-14 23:40:19] Starting server
+[Info][2022-01-14 23:40:19] A client has connected
+[Info][2022-01-14 23:40:47] User: Cristian08 has successfully logged in
+[Info][2022-01-14 23:40:50] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-14 23:40:54] User: Cristian08 has successfully borrowed the book with ID:  or:
+[Info][2022-01-14 23:40:55] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-14 23:41:26] User: Cristian08 has disconnected
+[Info][2022-01-14 23:48:11] Starting server
+[Info][2022-01-14 23:48:11] A client has connected
+[Info][2022-01-14 23:48:19] User: Cristian08 has successfully logged in
+[Info][2022-01-14 23:48:22] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-14 23:48:25] User: Cristian08 has successfully borrowed the book with ID:  or:
+[Info][2022-01-14 23:48:26] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-14 23:48:40] User: Cristian08 has disconnected
+[Info][2022-01-14 23:59:03] Starting server
+[Info][2022-01-14 23:59:03] A client has connected
+[Info][2022-01-14 23:59:32] User: Cristian08 has successfully logged in
+[Info][2022-01-14 23:59:39] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-14 23:59:44] User: Cristian08 has successfully borrowed the book with ID:  0
+[Info][2022-01-14 23:59:45] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 00:00:02] User: Cristian08 has successfully borrowed the book with ID:  3
+[Info][2022-01-15 00:00:03] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 00:00:05] User: Cristian08 has successfully borrowed the book with ID:  9
+[Info][2022-01-15 00:00:06] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 00:00:08] User: Cristian08 has successfully borrowed the book with ID:  6
+[Info][2022-01-15 00:00:09] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 00:00:16] User: Cristian08 has successfully borrowed the book with ID:  13
+[Info][2022-01-15 00:00:17] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 00:00:26] Successfully displayed the list of borrowed books for Cristian08
+[Info][2022-01-15 00:00:39] User: Cristian08 has disconnected
+[Info][2022-01-15 00:09:33] Starting server
+[Info][2022-01-15 00:09:33] A client has connected
+[Info][2022-01-15 00:09:41] User: Cristian08 has successfully logged in
+[Info][2022-01-15 00:09:44] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 00:10:15] Successfully displayed the list of borrowed books for Cristian08
+[Info][2022-01-15 00:10:29] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 00:10:33] User: Cristian08 has successfully borrowed the book with ID:  0
+[Info][2022-01-15 00:10:34] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 00:10:36] User: Cristian08 has successfully borrowed the book with ID:  1
+[Info][2022-01-15 00:10:37] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 00:10:39] User: Cristian08 has successfully borrowed the book with ID:  2
+[Info][2022-01-15 00:10:41] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 00:10:43] User: Cristian08 has successfully borrowed the book with ID:  3
+[Info][2022-01-15 00:10:44] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 00:10:47] User: Cristian08 has successfully borrowed the book with ID:  4
+[Info][2022-01-15 00:10:48] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 00:11:24] User: Cristian08 has disconnected
+[Info][2022-01-15 00:51:20] Starting server
+[Info][2022-01-15 00:51:20] A client has connected
+[Info][2022-01-15 00:51:29] User: Cristian08 has successfully logged in
+[Info][2022-01-15 00:51:35] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 00:51:40] User: Cristian08 has successfully borrowed the book with ID: 1
+[Info][2022-01-15 00:51:41] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 00:51:49] User: Cristian08 has successfully borrowed the book with ID: 0
+[Info][2022-01-15 00:51:52] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 00:52:09] Successfully displayed the list of borrowed books for Cristian08
+[Info][2022-01-15 00:52:25] User: Cristian08 has disconnected
+[Info][2022-01-15 01:02:25] Starting server
+[Info][2022-01-15 01:02:25] A client has connected
+[Info][2022-01-15 01:02:36] User: Cristian08 has successfully logged in
+[Info][2022-01-15 01:02:38] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 01:02:44] User: Cristian08 has successfully borrowed the book with ID: 7
+[Info][2022-01-15 01:02:45] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 01:02:56] User: Cristian08 has successfully borrowed the book with ID: 0
+[Info][2022-01-15 01:02:57] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 01:03:00] User: Cristian08 has successfully borrowed the book with ID: 1
+[Info][2022-01-15 01:03:01] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 01:03:03] User: Cristian08 has successfully borrowed the book with ID: 2
+[Info][2022-01-15 01:03:04] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 01:03:07] User: Cristian08 has successfully borrowed the book with ID: 3
+[Info][2022-01-15 01:03:08] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 01:04:17] Successfully displayed the list of borrowed books for Cristian08
+[Info][2022-01-15 01:04:26] User: Cristian08 has disconnected
+[Info][2022-01-15 01:11:57] Starting server
+[Info][2022-01-15 01:11:57] A client has connected
+[Info][2022-01-15 01:12:05] User: Cristian08 has successfully logged in
+[Info][2022-01-15 01:12:07] Successfully displayed the list of borrowed books for Cristian08
+[Info][2022-01-15 01:12:14] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 01:12:24] User: Cristian08 has disconnected
+[Info][2022-01-15 01:20:46] Starting server
+[Info][2022-01-15 01:20:46] A client has connected
+[Info][2022-01-15 01:20:55] User: Cristian08 has successfully logged in
+[Info][2022-01-15 01:20:57] Successfully displayed the list of borrowed books for Cristian08
+[Info][2022-01-15 01:21:30] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 01:21:32] User: Cristian08 has successfully borrowed the book with ID: 6
+[Info][2022-01-15 01:21:37] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 01:21:48] Successfully displayed the list of borrowed books for Cristian08
+[Info][2022-01-15 01:22:43] Successfully displayed the list of borrowed books for Cristian08
+[Info][2022-01-15 01:23:28] User: Cristian08 has disconnected
+[Info][2022-01-15 01:27:24] Starting server
+[Info][2022-01-15 01:27:31] A client has connected
+[Info][2022-01-15 01:27:50] User: Cristian08 has successfully logged in
+[Info][2022-01-15 01:27:55] Successfully displayed the list of borrowed books for Cristian08
+[Info][2022-01-15 01:28:10] User: Cristian08 has disconnected
+[Info][2022-01-15 01:44:19] Starting server
+[Info][2022-01-15 01:44:19] A client has connected
+[Info][2022-01-15 01:44:29] User: Cristian08 has successfully logged in
+[Info][2022-01-15 01:44:32] Successfully displayed the list of borrowed books for Cristian08
+[Info][2022-01-15 01:44:35] Successfully displayed the list of borrowed books for Cristian08
+[Info][2022-01-15 01:44:40] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 01:44:44] User: Cristian08 has successfully borrowed the book with ID: 0
+[Info][2022-01-15 01:44:45] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 01:44:47] User: Cristian08 has successfully borrowed the book with ID: 5
+[Info][2022-01-15 01:44:48] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 01:44:50] User: Cristian08 has successfully borrowed the book with ID: 11
+[Info][2022-01-15 01:44:51] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 01:44:53] User: Cristian08 has successfully borrowed the book with ID: 6
+[Info][2022-01-15 01:44:55] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 01:45:01] User: Cristian08 has successfully borrowed the book with ID: 15
+[Info][2022-01-15 01:45:02] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 01:45:09] Successfully displayed the list of borrowed books for Cristian08
+[Info][2022-01-15 01:45:46] Successfully displayed the list of borrowed books for Cristian08
+[Info][2022-01-15 01:45:50] Successfully displayed the list of borrowed books for Cristian08
+[Info][2022-01-15 01:45:53] User: Cristian08 attempted to delete their account
+[Info][2022-01-15 01:45:56] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 01:46:19] User: Cristian08 has successfully logged in
+[Info][2022-01-15 01:46:22] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 01:46:37] User: Cristian08 has disconnected
+[Info][2022-01-15 01:46:43] Starting server
+[Info][2022-01-15 01:46:43] A client has connected
+[Info][2022-01-15 01:46:52] User: Cristian08 has successfully logged in
+[Info][2022-01-15 01:46:59] Successfully displayed the list of borrowed books for Cristian08
+[Info][2022-01-15 01:47:02] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 01:47:14] User: Cristian08 has disconnected
+[Info][2022-01-15 01:54:03] Starting server
+[Info][2022-01-15 01:54:03] A client has connected
+[Info][2022-01-15 01:54:15] A client attempted to login
+[Info][2022-01-15 01:54:19] A client has created an account with username Cristian08
+[Info][2022-01-15 01:54:23] Successfully displayed the list of borrowed books for Cristian08
+[Info][2022-01-15 01:54:25] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 01:54:33] User: Cristian08 has disconnected
+[Info][2022-01-15 02:09:35] Starting server
+[Info][2022-01-15 02:09:35] A client has connected
+[Info][2022-01-15 02:09:45] User: Cristian08 has successfully logged in
+[Info][2022-01-15 02:09:48] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 02:09:51] User: Cristian08 has successfully borrowed the book with ID: 0
+[Info][2022-01-15 02:09:52] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 02:09:55] User: Cristian08 has successfully borrowed the book with ID: 1
+[Info][2022-01-15 02:09:56] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 02:09:58] User: Cristian08 has successfully borrowed the book with ID: 2
+[Info][2022-01-15 02:09:59] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 02:10:02] User: Cristian08 has successfully borrowed the book with ID: 3
+[Info][2022-01-15 02:10:03] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 02:10:05] User: Cristian08 has successfully borrowed the book with ID: 4
+[Info][2022-01-15 02:10:06] Successfully displayed page 1 of books for user: Cristian08
+[Info][2022-01-15 02:10:12] Successfully displayed the list of borrowed books for Cristian08
+[Info][2022-01-15 02:10:23] User: Cristian08 has disconnected
+[Info][2022-01-19 16:06:03] Starting server
+[Info][2022-06-05 18:14:23] Starting server
+[Info][2022-06-05 18:27:48] Starting server
+[Info][2022-06-05 18:27:51] SOCKET #216 has connected
+[Warning][2022-06-05 18:28:02] SOCKET #216 : attempted to register
+[Warning][2022-06-05 18:28:10] SOCKET #216 : attempted to register
+[Warning][2022-06-05 18:28:12] SOCKET #216 : attempted to register
+[Warning][2022-06-05 18:28:21] SOCKET #216 : attempted to register
+[Warning][2022-06-05 18:28:44] SOCKET #216 : attempted to register
+[Warning][2022-06-05 18:29:01] SOCKET #216 : attempted to register
+[Warning][2022-06-05 18:29:25] SOCKET #216 : attempted to login
+[Warning][2022-06-05 18:29:34] SOCKET #216 : attempted to register
+[Info][2022-06-05 18:29:48] SOCKET #216 : has created an account with username:  Test1234
+[Info][2022-06-05 18:29:59] User: Test1234 has found 2 books
+[Info][2022-06-05 18:34:03] User: Test1234 has successfully logged out
+[Info][2022-06-05 18:34:05] SOCKET #216 has disconnected
+[Info][2022-06-05 19:29:55] Starting server
+[Info][2022-06-05 19:29:55] SOCKET #196 has connected
+[Warning][2022-06-05 19:30:18] SOCKET #196 : attempted to login
+[Warning][2022-06-05 19:30:20] SOCKET #196 : attempted to register
+[Warning][2022-06-05 19:30:23] SOCKET #196 : attempted to register
+[Info][2022-06-05 19:30:31] SOCKET #196 : has created an account with username:  HelloGoodbye1
+[Info][2022-06-05 19:31:06] User: HelloGoodbye1 has successfully borrowed the book with ID: 443
+[Info][2022-06-05 19:31:21] User: HelloGoodbye1 has successfully extended borrow duration for the book with ID: 443
+[Info][2022-06-05 19:31:58] User: HelloGoodbye1 has successfully returned the book with ID: 443
+[Info][2022-06-05 19:32:03] User: HelloGoodbye1 has removed their library account
+[Info][2022-06-05 19:32:06] SOCKET #196 has disconnected
